@@ -1,5 +1,6 @@
-echo ".venv/" >> .gitignore
-echo "__pycache__/" >> .gitignore
-echo "videos/" >> .gitignore
-echo ".env" >> .gitignore
-echo "*.pyc" >> .gitignore
+.idea/
+.venv/
+__pycache__/
+videos/
+.env
+*.pyc
